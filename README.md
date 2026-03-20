@@ -80,3 +80,5 @@ The **Simulations** tab exposes different disruption scenarios. Each scenario re
   - Impacted POIs: `public/colleges_impact.json`
 
 If a simulation JSON is missing or outdated, the UI will show an error with the exact `Rscript` command to regenerate it (see the messages in the Simulations view).
+
+
